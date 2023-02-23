@@ -1,0 +1,8 @@
+#include <stdio>
+
+int main(void){
+
+    char arr[4] = {'1','2','3','4'}
+
+    printf("%c", arr[2]);
+}
